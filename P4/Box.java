@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Toni
- */
 public class Box extends Package {
 
     private int depth;
