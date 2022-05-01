@@ -5,10 +5,6 @@
  */
 package onlinestore;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class WeightedItem extends Item {
 
     private double pricePerWeight;
