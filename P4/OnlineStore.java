@@ -12,10 +12,6 @@ import java.util.Calendar;
 import java.util.Collections;
 import java.util.Date;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class OnlineStore {
 
     /**
