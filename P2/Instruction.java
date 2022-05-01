@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Toni
- */
+
 public class Instruction {
     private String code;
     private double param;
