@@ -8,10 +8,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class AuctionItem extends Item {
 
     private double currentPrice;
