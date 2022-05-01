@@ -10,10 +10,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.LinkedList;
 
-/**
- *
- * @author Ojitos Rizados
- */
+
 public class Administrator extends User {
 
     public Administrator(String name, String identifier, String password) {
