@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Toni
- */
 public class Package implements Taxable {
 
     protected int width, height;
