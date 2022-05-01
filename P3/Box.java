@@ -5,10 +5,7 @@
  */
 package onlinestore;
 
-/**
- *
- * @author Toni
- */
+
 public class Box extends Package {
 
     private int depth;
