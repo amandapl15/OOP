@@ -7,10 +7,7 @@ import java.awt.Graphics;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Toni
- */
+
 public class Logo {
     private int width, height;
     private Turtle t;
