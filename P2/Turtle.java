@@ -8,10 +8,6 @@ import java.awt.Graphics;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Toni
- */
 public class Turtle {
     private int x, y;
     private double dirX, dirY;
