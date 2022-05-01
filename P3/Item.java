@@ -7,10 +7,6 @@ package onlinestore;
 
 import java.util.LinkedList;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public abstract class Item {
 
     protected String name;
