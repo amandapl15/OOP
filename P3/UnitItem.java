@@ -5,10 +5,6 @@
  */
 package onlinestore;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class UnitItem extends Item {
 
     private double unitPrice;
