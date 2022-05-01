@@ -6,10 +6,7 @@
 //package logoprogram;
 import java.util.LinkedList;
 
-/**
- *
- * @author Toni
- */
+
 public class Program {
 
     private LinkedList<Instruction> instructions;
