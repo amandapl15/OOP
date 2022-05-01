@@ -5,10 +5,6 @@
  */
 package onlinestore;
 
-/**
- *
- * @author Toni
- */
 public class User {
 
     private String name, identifier, password;
