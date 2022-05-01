@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class WeightedItem extends Item {
 
     private double pricePerWeight;
