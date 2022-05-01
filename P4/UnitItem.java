@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class UnitItem extends Item {
 
     private double unitPrice;
