@@ -8,10 +8,6 @@ package onlinestore;
 import java.text.ParseException;
 import java.util.LinkedList;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public class OnlineStore {
 
     /**
