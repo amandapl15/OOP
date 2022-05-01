@@ -7,10 +7,6 @@ import java.util.LinkedList;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Toni
- */
 public class Program {
     private LinkedList<Instruction> instructions;
     private int currentLine;
