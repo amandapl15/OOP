@@ -5,10 +5,6 @@
  */
 package onlinestore;
 
-/**
- *
- * @author Toni
- */
 public class Envelope extends Package {
 
     private String name;
