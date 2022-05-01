@@ -7,10 +7,6 @@ package onlinestore;
 
 import java.util.LinkedList;
 
-/**
- *
- * @author Toni
- */
 public class Buyer extends User {
 
     private String accountNumber;
