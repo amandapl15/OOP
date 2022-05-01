@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Ojitos Rizados
- */
 public interface Taxable {
 
     public static final double tax = 0.21;
