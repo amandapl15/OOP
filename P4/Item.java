@@ -6,10 +6,6 @@
 
 import java.util.LinkedList;
 
-/**
- *
- * @author Ojitos Rizados
- */
 public abstract class Item implements Taxable, Comparable {
 
     protected String name;
