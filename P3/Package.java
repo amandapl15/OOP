@@ -5,10 +5,6 @@
  */
 package onlinestore;
 
-/**
- *
- * @author Toni
- */
 public class Package {
 
     protected int width, height;
